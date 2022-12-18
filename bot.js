@@ -1,3 +1,5 @@
+npm install
+
 const Twit = require('twit');
 const fs = require('fs');
 require('dotenv').config();
