@@ -1,4 +1,4 @@
-npm install
+git clone https://github.com/ShawnToubeau/lyric-bot.git
 
 const Twit = require('twit');
 const fs = require('fs');
